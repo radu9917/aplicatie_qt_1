@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>SideButtonModel.qml</file>
+        <file>SideButtonDelegate.qml</file>
+        <file>AppbarButton.qml</file>
+        <file>AppViewDelegate.qml</file>
+        <file>AppViewModel.qml</file>
+        <file>TopbarButton.qml</file>
+    </qresource>
+    <qresource prefix="/sidebar_icons">
+        <file>images/facebook.png</file>
+        <file>images/twitter.png</file>
+        <file>images/dropbox.png</file>
+    </qresource>
+    <qresource prefix="/icons">
+        <file>images/bell-solid.svg</file>
+        <file>images/envelope-solid.svg</file>
+        <file>images/search-solid.svg</file>
+        <file>images/chevron-down-solid.svg</file>
+        <file>images/profile_pic.jpg</file>
+    </qresource>
+</RCC>
